@@ -6,4 +6,4 @@ Features:
 
 - `/assets` directory for local assets
 - `preload.ts` demonstrates three different IPC methods
-- Style sheets using `.scss` Sass
+- Style sheets using Sass `.scss`
